@@ -1,0 +1,17 @@
+[
+    {
+        "stateAbbreviation": "IN",
+        "stateName": "Indiana",
+        "taxRate": 3.45
+    },
+    {
+        "stateAbbreviation": "AR",
+        "stateName": "Arizona",
+        "taxRate": 8.99
+    },
+    {
+        "stateAbbreviation": "MI",
+        "stateName": "Michigan",
+        "taxRate": 4.55
+    }
+]
